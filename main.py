@@ -1,6 +1,6 @@
 import random
 
-word_list = ["ardvark", "baboon", "camel"]
+word_list = ["aardvark", "baboon", "camel"]
 
 chosen_word = random.choice(word_list)
 letters_to_find = len(chosen_word)
